@@ -58,27 +58,27 @@ h2 {
     text-align: center;
 }
 
-#bouton1{background:url(images/bouton1.png) no-repeat;display:block;width:300px;height:40px;}
-#bouton1:hover{background:url(images/bouton1over.png) no-repeat;display:block;width:300px;height:40px;}
-#bouton2{background:url(images/bouton2.png) no-repeat;display:block;width:300px;height:40px;}
-#bouton2:hover{background:url(images/bouton2over.png) no-repeat;display:block;width:300px;height:40px;}
-#bouton3{background:url(images/bouton3.png) no-repeat;display:block;width:300px;height:40px;}
-#bouton3:hover{background:url(images/bouton3over.png) no-repeat;display:block;width:300px;height:40px;}
-#bouton4{background:url(images/bouton4.png) no-repeat;display:block;width:300px;height:40px;}
-#bouton4:hover{background:url(images/bouton4over.png) no-repeat;display:block;width:300px;height:40px;}
-#bouton5{background:url(images/bouton5.png) no-repeat;display:block;width:300px;height:40px;}
-#bouton5:hover{background:url(images/bouton5over.png) no-repeat;display:block;width:300px;height:40px;}
-#bouton6{background:url(images/bouton6.png) no-repeat;display:block;width:300px;height:40px;}
-#bouton6:hover{background:url(images/bouton6over.png) no-repeat;display:block;width:300px;height:40px;}
-#bouton7{background:url(images/bouton7.png) no-repeat;display:block;width:300px;height:40px;}
-#bouton7:hover{background:url(images/bouton7over.png) no-repeat;display:block;width:300px;height:40px;}
-#bouton8{background:url(images/bouton8.png) no-repeat;display:block;width:300px;height:40px;}
-#bouton8:hover{background:url(images/bouton8over.png) no-repeat;display:block;width:300px;height:40px;}
-#bouton9{background:url(images/bouton9.png) no-repeat;display:block;width:300px;height:40px;}
-#bouton9:hover{background:url(images/bouton9over.png) no-repeat;display:block;width:300px;height:40px;}
-#bouton10{background:url(images/bouton10.png) no-repeat;display:block;width:300px;height:40px;}
-#bouton10:hover{background:url(images/bouton10over.png) no-repeat;display:block;width:300px;height:40px;}
-#bouton11{background:url(images/bouton11.png) no-repeat;display:block;width:300px;height:40px;}
-#bouton11:hover{background:url(images/bouton11over.png) no-repeat;display:block;width:300px;height:40px;}
-#bouton12{background:url(images/bouton12.png) no-repeat;display:block;width:300px;height:40px;}
-#bouton12:hover{background:url(images/bouton12over.png) no-repeat;display:block;width:300px;height:40px;}
+#bouton1{background:url(../img/bouton1.png) no-repeat;display:block;width:600px;height:200px;background-position: center; }
+#bouton1:hover{background:url(../img/bouton1over.png) no-repeat;display:block;width:300px;height:40px;background-position: center; }
+#bouton2{background:url(../img/bouton2.png) no-repeat;display:block;width:300px;height:40px;}
+#bouton2:hover{background:url(../img/bouton2over.png) no-repeat;display:block;width:300px;height:40px;}
+#bouton3{background:url(../img/bouton3.png) no-repeat;display:block;width:300px;height:40px;}
+#bouton3:hover{background:url(../img/bouton3over.png) no-repeat;display:block;width:300px;height:40px;}
+#bouton4{background:url(../img/bouton4.png) no-repeat;display:block;width:300px;height:40px;}
+#bouton4:hover{background:url(../img/bouton4over.png) no-repeat;display:block;width:300px;height:40px;}
+#bouton5{background:url(../img/bouton5.png) no-repeat;display:block;width:300px;height:40px;}
+#bouton5:hover{background:url(../img/bouton5over.png) no-repeat;display:block;width:300px;height:40px;}
+#bouton6{background:url(../img/bouton6.png) no-repeat;display:block;width:300px;height:40px;}
+#bouton6:hover{background:url(../img/bouton6over.png) no-repeat;display:block;width:300px;height:40px;}
+#bouton7{background:url(../img/bouton7.png) no-repeat;display:block;width:300px;height:40px;}
+#bouton7:hover{background:url(../img/bouton7over.png) no-repeat;display:block;width:300px;height:40px;}
+#bouton8{background:url(../img/bouton8.png) no-repeat;display:block;width:300px;height:40px;}
+#bouton8:hover{background:url(../img/bouton8over.png) no-repeat;display:block;width:300px;height:40px;}
+#bouton9{background:url(../img/bouton9.png) no-repeat;display:block;width:300px;height:40px;}
+#bouton9:hover{background:url(../img/bouton9over.png) no-repeat;display:block;width:300px;height:40px;}
+#bouton10{background:url(../img/bouton10.png) no-repeat;display:block;width:300px;height:40px;}
+#bouton10:hover{background:url(../img/bouton10over.png) no-repeat;display:block;width:300px;height:40px;}
+#bouton11{background:url(../img/bouton11.png) no-repeat;display:block;width:300px;height:40px;}
+#bouton11:hover{background:url(../img/bouton11over.png) no-repeat;display:block;width:300px;height:40px;}
+#bouton12{background:url(../img/bouton12.png) no-repeat;display:block;width:300px;height:40px;}
+#bouton12:hover{background:url(../img/bouton12over.png) no-repeat;display:block;width:300px;height:40px;}
