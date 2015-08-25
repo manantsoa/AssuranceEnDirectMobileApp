@@ -2,11 +2,19 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.app.assuranceendirect" version="0.0.1">
     <name>AssuranceEnDirect</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        An application which provides many insurances
     </description>
     <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+        Assurance en Direct Team
     </author>
+	<preference name="SplashScreen" value="screen"/>
+	<preference name="SplashScreenDelay" value="3000"/>
+	<platform name="android">
+              <icon density="ldpi" src="www/img/assurance-en-direct-icon-ldpi.png"/>
+              <icon density="mdpi" src="www/img/assurance-en-direct-icon-mdpi.png"/>
+              <icon density="hdpi" src="www/img/assurance-en-direct-icon-hdpi.png"/>
+              <icon density="xhdpi" src="www/img/assurance-en-direct-icon-xhdpi.png"/>
+    </platform>
     <content src="index.html"/>
     <plugin name="cordova-plugin-whitelist" version="1"/>
     <access origin="*"/>
